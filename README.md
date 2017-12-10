@@ -1,6 +1,6 @@
 # jsdiagram-ext
 
-This chrome extension uses the [JS Sequence Diagrams)[https://bramp.github.io/js-sequence-diagrams/]
+This chrome extension uses the [JS Sequence Diagrams](https://bramp.github.io/js-sequence-diagrams/)
 library to automatically render sequence diagrams found on any page.
 
 To show a diagram, the page should include code like:
